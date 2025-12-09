@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@graft/nuget-be": "^1.0.0",
     "install": "^0.13.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
